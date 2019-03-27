@@ -7,6 +7,7 @@ A Android Demo project with RxJava + Dagger 2 +Room uses  (​ https://newsapi.o
 
 <img align="left" width="180" height="280" alt="" src="https://github.com/yadavmangesh/Android-Demo-with-RxJava-Dagger-2-Room/blob/master/Screenshot_20190327-192110.jpg">
 <img align="left" width="180" height="280" alt="" src="https://github.com/yadavmangesh/Android-Demo-with-RxJava-Dagger-2-Room/blob/master/Screenshot_20190327-192040.jpg">
+<img align="left" width="180" height="280" alt="" src="https://github.com/yadavmangesh/Android-Demo-with-RxJava-Dagger-2-Room/blob/master/Screenshot_20190327-195343.jpg">
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
