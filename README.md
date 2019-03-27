@@ -1,6 +1,6 @@
 # Android-Demo-with-RxJava-Dagger-2-Room
 
-A Android Demo project with RxJava + Dagger 2 +Room uses  (​ https://newsapi.org/docs/endpoints/top-headlines​ ) endpoint for getting the news list from different sources 
+A Android Demo project with RxJava + Dagger 2 +Room uses  (https://newsapi.org/docs/endpoints) endpoint for getting the news list from different sources 
 
 
 ## Screenshots
